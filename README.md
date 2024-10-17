@@ -1,1 +1,1 @@
-Hexo Framework for Webgola
+Hexo Framework for Webgola using Redefine Theme
