@@ -122,8 +122,8 @@ home_banner:
   image: 
     #light: /images/wallhaven-wqery6-light.webp # light mode
     light: /images/vec_greeting.jpg
-    #dark: /images/wallhaven-wqery6-dark.webp # dark mode
-    dark: /images/pixabay_cat.jpg
+    dark: /images/wallhaven-wqery6-dark.webp # dark mode
+    #dark: /images/pixabay_cat.jpg
   # Home banner title
   title: El Gato
   # Home banner subtitle
