@@ -13,7 +13,7 @@ info:
   # Site title
   title: Catgola Ltd.
   # Author name
-  author: Gemitus
+  author: Gemi
   # Site URL
   url: https://catgola.de
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -120,8 +120,10 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /images/wallhaven-wqery6-light.webp # light mode
-    dark: /images/wallhaven-wqery6-dark.webp # dark mode
+    #light: /images/wallhaven-wqery6-light.webp # light mode
+    light: /images/vec_greeting.jpg
+    #dark: /images/wallhaven-wqery6-dark.webp # dark mode
+    dark: /images/pixabay_cat.jpg
   # Home banner title
   title: El Gato
   # Home banner subtitle
